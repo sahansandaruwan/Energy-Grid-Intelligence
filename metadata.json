@@ -1,6 +1,0 @@
-{
-  "name": "Energy Grid Intelligence",
-  "description": "Real-time dashboard for European electricity grid data and weather.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
